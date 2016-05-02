@@ -1,2 +1,2 @@
 # winodjannurepository
-my sample projects
+my sample projects to practice angular will be listed
